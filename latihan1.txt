@@ -4,3 +4,5 @@ pemula belajar ngoding dengan Github Repo
 >> NodeJS
 >> JSF
 >> Script serverside PHP
+>> MongoDB
+>> Network
